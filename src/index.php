@@ -10,8 +10,7 @@
 
 <body>
   <h1>runecode</h1>
-  <p>Step through the eternity gate</p>
-  <p>wow</p>
+  <p>Site is under construction.</p>
 </body>
 
 </html>
