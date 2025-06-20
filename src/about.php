@@ -6,9 +6,8 @@
   <div class="jumbotron">
     <h1>About runecode</h1>
     <h2><i><b>party.runeco.de</b> Your Pathfinder 2e Party Planning Tool</i></h2>
-    <br>
-    <p>party is a web-based tool designed to help you plan and manage your Pathfinder 2e party. It allows you to create,
-      edit, and share party plans with ease.</p>
+    <hr>
+    <p><b>party</b> is a web-based tool designed to help you plan and manage your Pathfinder 2e party. It allows you to create, edit, and share party plans with ease.</p>
     <p>Features include:</p>
     <ul>
       <li>Party creation and management</li>
@@ -20,5 +19,5 @@
       <div class="button"><a href="index.php">Back to Home</a></div>
     </div>
   </div>
-
+</body>
 </html>
