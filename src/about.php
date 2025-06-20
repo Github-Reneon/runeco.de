@@ -20,7 +20,7 @@
       </ul>
     </div>
     <div class="horizontal_container">
-      <div class="button"><a href="index.php">Back to Home <span aria-label="house" title="Home">🏠</span></a></div>
+      <div class="button"><a href="index.php">Back to Home</a></div>
     </div>
   </div>
 </body>
