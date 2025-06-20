@@ -43,7 +43,7 @@ body {
 }
 
 /* Button container: horizontal layout, center items, spacing between buttons */
-.button_container {
+.horizontal_container {
   display: flex;
   flex-direction: row;
   align-items: center;
