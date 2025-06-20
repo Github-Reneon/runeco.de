@@ -4,10 +4,12 @@
 <?php include 'head.php'; ?>
 
 <body>
-  <h1>runecode</h1>
-  <h2>Welcome to the portal</h2>
-  <a href="">PF2e Party Planner</a>
-  <a href="">About</a>
+  <div class="jumbotron">
+    <h1>runecode</h1>
+    <h2><i>Welcome to the portal</i></h2>
+    <a class="button" href="">PF2e Party Planner</a>
+    <a class="button" href="">About</a>
+  </div>
 </body>
 
 </html>
