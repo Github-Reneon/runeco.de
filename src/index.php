@@ -9,7 +9,7 @@
     <h2><i>Welcome to the portal</i></h2>
     <div class="button_container">
       <div class="button"><a href="">PF2e Party Planner</a></div>
-      <div class="button"><a href="">About</a></div>
+      <div class="button"><a href="about.php">About</a></div>
     </div>
   </div>
 </body>
