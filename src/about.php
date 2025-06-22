@@ -13,7 +13,7 @@
         <i><b>party.runeco.de</b> Your Pathfinder 2e Party Planning Tool</i>
         <span aria-label="d20" title="d20">🎲</span>
       </h2>
-      <div class="text-lg text-gray-700 mt-4 text-center justify-items-center">
+      <div class="text-lg text-gray-700 mt-4 justify-items-center">
         <p>
           <b>party</b> is a web-based tool designed to help you plan and manage your Pathfinder 2e party.
           It allows you to create, edit, and share party plans with ease.
