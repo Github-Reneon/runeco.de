@@ -10,11 +10,11 @@
       <h2 class="text-2xl font-bold"><i>Welcome to the portal</i></h2>
       <div class="">
         <div class="flex flex-row gap-4">
-          <a href="">
+            <a href="" title="Coming soon">
             <div class="p-2 bg-gray-400 text-white rounded cursor-not-allowed opacity-60" aria-disabled="true">
               PF2e Party Planner
             </div>
-          </a>
+            </a>
           <a href="about.php">
           <div class="p-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition-colors">
               About
