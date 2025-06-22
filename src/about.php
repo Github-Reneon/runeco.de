@@ -29,9 +29,11 @@
           </ul>
         </div>
         <br>
-        <div class="rounded-full p-2 font-semibold bg-blue-300 text-white w-[200px] text-center">
-          <a href="index.php">Back to Home</a>
-        </div>
+        <a href="index.php">
+          <div class="p-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition-colors">
+            Back to Home
+          </div>
+          </a>
       </div>
     </div>
   </div>

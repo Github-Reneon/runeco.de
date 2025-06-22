@@ -1,35 +1,11 @@
-/* Style anchor tags: white color, no underline */
-a {
-  color: white;
-  text-decoration: none;
-}
-
-/* Main heading style: large font, no margin */
-h1 {
-  font-size: 2.5rem;
-  margin: 0;
-}
-
-/* Subheading style: medium font, no margin */
-h2 {
-  font-size: 1.5rem;
-  margin: 0;
-}
-
-/* hr style: no border, solid top line, margin, width */
-hr {
-  border: none;
-  border-top: 1px solid black;
-  margin: 1.5rem 0;
-  width: 80%;
-}
-
-/* Body style: sans-serif font, light background, no margin */
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
-  margin: 0;
+  background-image: url('bg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
 }
+
 
 /* Button style: blue background, no border, padding, rounded corners */
 .button {
