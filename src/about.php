@@ -3,8 +3,8 @@
 <?php include 'head.php'; ?>
 
 <body>
-  <div class="mx-auto w-fit">
-    <div class="flex flex-col items-center justify-center gap-4 p-4 h-screen">
+  <div class="mx-auto w-screen xl:max-w-4xl">
+    <div class="flex flex-col items-center justify-center gap-4 p-4 h-screen bg-gray-100">
       <h1 class="text-3xl font-bold">
         About runecode <span aria-label="scroll" title="Scroll">📜</span>
       </h1>

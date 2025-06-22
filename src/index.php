@@ -4,9 +4,9 @@
 <?php include 'head.php'; ?>
 
 <body>
-  <div class="mx-auto w-3/4">
-    <div class="flex flex-col items-center justify-center gap-4 p-4 h-screen">
-      <h1 class="text-5xl font-bold pb-10">runecode</h1>
+  <div class="mx-auto w-screen xl:max-w-4xl">
+    <div class="flex flex-col items-center justify-center gap-4 p-4 min-h-screen bg-gray-100">
+      <h1 class="text-5xl font-bold pb-10">Runecode <span title="Gem" aria-label="Gem">💎</span></h1>
       <h2 class="text-2xl font-bold"><i>Welcome to the portal</i></h2>
       <div class="">
         <div class="flex flex-row gap-4">
