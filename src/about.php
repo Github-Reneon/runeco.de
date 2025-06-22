@@ -3,8 +3,8 @@
 <?php include 'head.php'; ?>
 
 <body>
-  <div class="mx-auto w-fit">
-    <div class="flex flex-col items-center justify-center gap-4 p-4 h-screen">
+  <div class="mx-auto w-screen xl:max-w-4xl">
+    <div class="flex flex-col items-center justify-center gap-4 p-4 h-screen bg-gray-100">
       <h1 class="text-3xl font-bold">
         About runecode <span aria-label="scroll" title="Scroll">📜</span>
       </h1>
@@ -29,9 +29,11 @@
           </ul>
         </div>
         <br>
-        <div class="rounded-full p-2 font-semibold bg-blue-300 text-white w-[200px] text-center">
-          <a href="index.php">Back to Home</a>
-        </div>
+        <a href="index.php">
+          <div class="p-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition-colors">
+            Back to Home
+          </div>
+          </a>
       </div>
     </div>
   </div>

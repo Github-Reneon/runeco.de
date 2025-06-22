@@ -4,14 +4,22 @@
 <?php include 'head.php'; ?>
 
 <body>
-  <div class="mx-auto w-fit">
-    <div class="flex flex-col items-center justify-center gap-4 p-4 h-screen">
-      <h1 class="text-3xl font-bold">runecode</h1>
+  <div class="mx-auto w-screen xl:max-w-4xl">
+    <div class="flex flex-col items-center justify-center gap-4 p-4 min-h-screen bg-gray-100">
+      <h1 class="text-5xl font-bold pb-10">Runecode <span title="Gem" aria-label="Gem">💎</span></h1>
       <h2 class="text-2xl font-bold"><i>Welcome to the portal</i></h2>
       <div class="">
         <div class="flex flex-row gap-4">
-          <div class="rounded-full p-2 font-semibold bg-blue-300 text-white w-[200px] text-center"><a href="">PF2e Party Planner</a></div>
-          <div class="rounded-full p-2 font-semibold bg-blue-300 text-white w-[200px] text-center"><a href="about.php">About</a></div>
+            <a href="" title="Coming soon">
+            <div class="p-2 bg-gray-400 text-white rounded cursor-not-allowed opacity-60" aria-disabled="true">
+              PF2e Party Planner
+            </div>
+            </a>
+          <a href="about.php">
+          <div class="p-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition-colors">
+              About
+            </div>
+          </a>
         </div>
       </div>
     </div>
